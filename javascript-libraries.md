@@ -1,4 +1,4 @@
-## Alphabetical index of projects in Javascript:
+## Alphabetical index of Javascript Libraries:
 
 |       |       |       |       |       |       |       |
 |---    |---    |---    |---    |---    |---    |    ---|
