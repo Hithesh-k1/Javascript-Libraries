@@ -14,7 +14,7 @@
 
 [**A-Frame**](https://github.com/aframevr/aframe) is a web framework for building virtual reality (VR) experiences. A-Frame scenes are built with HTML and an entity-component architecture, that work across mobile, desktop, Vive, and Rift.
 
-<img src="https://user-images.githubusercontent.com/128755/29524090-eb95f760-865c-11e7-9db2-74465bf3c4f9.gif" width="100%"   />
+<img src="https://user-images.githubusercontent.com/128755/29524090-eb95f760-865c-11e7-9db2-74465bf3c4f9.gif" width="50%"   />
 
 
 ---
@@ -47,7 +47,8 @@ Ace's goal is to create a browser based editor that matches and extends the feat
 
 [**babel**](https://github.com/babel/babel)  — :tropical_fish: Babel is a compiler for writing next generation JavaScript.
 
-![babel](http://imgur.com/qiB3JcZ.png)
+<img src="http://imgur.com/qiB3JcZ.png" width="50%"   />
+
 
 ## C
 
@@ -55,7 +56,7 @@ Ace's goal is to create a browser based editor that matches and extends the feat
 
 Chart.js provides two different builds that are available for your use. The Chart.js and Chart.min.js files include Chart.js and the accompanying color parsing library. If this version is used and you require the use of the time axis, Moment.js will need to be included before Chart.js.
 
-![chart.js](https://cdn-images-1.medium.com/max/720/0*bFZZQzdNeZkoy3Ov.jpg)
+<img src="https://user-images.githubusercontent.com/40390596/72547667-f9711e00-3884-11ea-98ae-490f313ab900.gif" width="50%"   />
 
 ---
 [**Countly**](https://github.com/countly/countly-server)  —  A plugin-based, real-time mobile, web and desktop analytics platform with more than 10 different SDKs. Countly also includes an extensive push notifications and crash reporting service for mobile devices.
@@ -84,7 +85,7 @@ date-fns provides the most comprehensive, yet simple and consistent toolset for 
 
 [eDEX-UI](https://github.com/GitSquared/edex-ui) is a fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.
 
-![eDEX-UI](https://github.com/GitSquared/edex-ui/raw/master/media/screenshot_default.png)
+![eDEX-UI](https://user-images.githubusercontent.com/24496417/51791484-2b84fe00-21a4-11e9-863d-afc9565d6628.gif)
 
 ---
 [**Enzyme**](https://github.com/airbnb/enzyme) is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components’ output.
