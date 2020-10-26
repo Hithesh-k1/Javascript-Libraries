@@ -14,21 +14,24 @@
 
 [**A-Frame**](https://github.com/aframevr/aframe) is a web framework for building virtual reality (VR) experiences. A-Frame scenes are built with HTML and an entity-component architecture, that work across mobile, desktop, Vive, and Rift.
 
-![aframe](https://cloud.githubusercontent.com/assets/674727/21375108/2c10b308-c6e0-11e6-945e-2394beb9a8ed.png)
+<img src="https://user-images.githubusercontent.com/128755/29524090-eb95f760-865c-11e7-9db2-74465bf3c4f9.gif" width="100%"   />
+
 
 ---
 [**Ace**](https://github.com/ajaxorg/ace)  —  Ace is a standalone code editor written in JavaScript.
 
 Ace's goal is to create a browser based editor that matches and extends the features, usability and performance of existing native editors such as TextMate, Vim or Eclipse. It can be easily embedded in any web page or JavaScript application. Ace is developed as the primary editor for Cloud9 IDE and the successor of the Mozilla Skywriter (Bespin) Project.
 
+<img src="https://ace.c9.io/doc/site/images/ace-logo.png" width="50%"   />
+
+
 [Check out the live demo](http://ace.c9.io/).
 
 ---
-[**AR.js**](https://github.com/jeromeetienne/AR.js) - Augmented Reality for the Web
+[**AR.js**](https://github.com/jeromeetienne/AR.js) -AR.js is a lightweight library for Augmented Reality on the Web, coming with features like Image Tracking, Location based AR and Marker tracking.
 
-Efficient Augmented Reality for the Web built on A-Frame.
+<img src="https://edducando.com/ar/data/logo/logo-black-transparent-1280x512.png" width="50%"   />
 
-![AR.js](https://user-images.githubusercontent.com/252962/27472386-0d11e59a-57f3-11e7-9fa5-34332c5484f7.png)
 
 ---
 [**async**](https://github.com/caolan/async)  —  a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript. Although originally designed for use with Node.js and installable via npm install --save async, it can also be used directly in the browser.
